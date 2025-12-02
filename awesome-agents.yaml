@@ -2654,4 +2654,15 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "Sayna"
+  project_description: "Sayna is a self-hostable voice layer for AI agents with provider-agnostic STT/TTS, real-time WebSocket streaming, and SIP telephony support, enabling developers to add speech capabilities to any AI agent"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/SaynaAI/sayna"
+    - source: "docs"
+      source_url: "https://docs.sayna.ai/"
+  categories:
+    - "Real-Time"
+    - "Development Frameworks"
